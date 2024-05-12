@@ -1,5 +1,5 @@
-# Activities App
-#### The Project Name is a web application that provides users with functionalities related to user activities, achievements, and a calendar. It consists of both frontend and backend components, which work together to deliver a seamless user experience.
+# Habit (Activity) Tracking App
+#### The Habit Tracking App is a web application that provides users with functionalities related to user activities, achievements, and a calendar. It consists of both frontend and backend components, which work together to deliver a seamless user experience.
 
 ## Frontend
 #### The frontend of the project is built using React, a popular JavaScript library for building user interfaces. It leverages the power of React components to create a responsive and interactive application. The main components of the frontend are:
